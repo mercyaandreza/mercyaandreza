@@ -1,20 +1,13 @@
 ### Hi there 👋
 
 ![Profile visits](https://badges.pufler.dev/visits/mercyaandreza/mercyaandreza?label=Profile%20visits&style=flat-square)
-<!--
-**mercyaandreza/mercyaandreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  Has projects about all languages became I learn during those years.
 
 
+- 🔭 I'm currently working like Programmer Java
+- 🌱 I’m currently learning nodeJs, Angular
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/andrezamercya-358997160/">Linkedin</a>
+-<pre> 🧡 Programming became my fun </pre>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyaandreza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
