@@ -2,6 +2,8 @@
 
 <!--
 **mercyaandreza/mercyaandreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile visits](https://badges.pufler.dev/visits/mercyaandreza/mercyaandreza?label=Profile%20visits&style=flat-square)
+
 
 Here are some ideas to get you started:
 
