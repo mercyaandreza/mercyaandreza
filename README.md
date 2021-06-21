@@ -6,7 +6,7 @@
 
 
 - 🔭 I'm currently working with Java Programmer;
-- 🌱 I’m learning nodeJs and Angular;
+- 🌱 I’m learning Angular;
 - 📫 How to find me: <a href="https://www.linkedin.com/in/andrezamercya-358997160/">Linkedin</a>
 -<pre> 🧡 Programming became my fun </pre>
 
